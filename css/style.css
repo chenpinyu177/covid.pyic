@@ -698,7 +698,7 @@ button:focus {
       margin: 0px; }
   .single_member:hover .author_decs {
     box-shadow: 0 0 50px rgba(153, 153, 153, 0.3); }
-  .single_member.author .author_img{
+  .single_member.img.author_img{
     padding:5px;
     width:370px;
     height:auto;}
