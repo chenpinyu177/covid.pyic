@@ -667,8 +667,9 @@ button:focus {
 .single_member {
   text-align: center;
   box-shadow: none;
-  width: 400px;
-  height: 600px;}
+  border-width: 400px;
+  border-height: 600px;}
+.single_member
   .single_member .author_decs {
     box-shadow: 0 0 50px rgba(153, 153, 153, 0.1);
     -webkit-transition: all 0.3s ease 0s;
