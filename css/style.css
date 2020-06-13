@@ -666,7 +666,9 @@ button:focus {
 ============================================================================================ */
 .single_member {
   text-align: center;
-  box-shadow: none; }
+  box-shadow: none;
+  width: 400px;
+  height: 600px;}
   .single_member .author_decs {
     box-shadow: 0 0 50px rgba(153, 153, 153, 0.1);
     -webkit-transition: all 0.3s ease 0s;
@@ -695,6 +697,10 @@ button:focus {
       margin: 0px; }
   .single_member:hover .author_decs {
     box-shadow: 0 0 50px rgba(153, 153, 153, 0.3); }
+  .single_member.author.img{
+    padding:2px;
+    width:100%;
+    height:auto;}
 
 /* End Team Area css
 ============================================================================================ */
