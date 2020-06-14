@@ -588,6 +588,12 @@ button:focus {
     .about_area .about_bg.overlay:after {
       opacity: .3;
       background: #000000; }
+.little_title{
+  font-size:1.5rem;
+  color:#8b4000;
+  text-align:left;
+  font-weight:bold;
+}
 
 .about_right {
   background: url(../img/about-bg2.png);
