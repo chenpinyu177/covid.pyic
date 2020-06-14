@@ -186,7 +186,7 @@
 }
 
 .header-top {
-    @include gradient(90deg, #772dff 0%, #9e4fff 100%);
+    @include gradient(90deg, #006400 0%, #00cc00 100%);
     font-size: 12px;
     @media (max-width: 991px) {
         display: none;
