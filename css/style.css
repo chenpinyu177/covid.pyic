@@ -599,8 +599,7 @@ button:focus {
 }
 .world_pic {
   display: block;
-  width: 50%;
-  height: auto;
+  width: 25%;
   margin-left: auto;
   margin-right: auto;
 }
