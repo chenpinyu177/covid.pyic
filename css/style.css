@@ -607,14 +607,14 @@ button:focus {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.5;
+  opacity: 0;
   transition: .5s ease;
   background-color: #d3d3d3;
 }
 .world_pic_container:hover .world_pic_overlay {
   opacity: 0.5;
 }
-.worle_little_title{
+.world_little_title{
   font-size:2rem;
   color:#8b4000;
   position: absolute;
