@@ -594,7 +594,21 @@ button:focus {
   text-align:left;
   font-weight:bold;
 }
-
+.world_pic_overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+  transition: .5s ease;
+  background-color: #d3d3d3;
+}
+.world_pic_container:hover .world_pic_overlay {
+  opacity: 0.5;
+}
 .about_right {
   background: url(../img/about-bg2.png);
   background-size: cover;
