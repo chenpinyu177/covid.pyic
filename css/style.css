@@ -614,6 +614,17 @@ button:focus {
 .world_pic_container:hover .world_pic_overlay {
   opacity: 0.5;
 }
+.worle_little_title{
+  font-size:2rem;
+  color:#8b4000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align:center;
+}
 .about_right {
   background: url(../img/about-bg2.png);
   background-size: cover;
