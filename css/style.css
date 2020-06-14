@@ -594,6 +594,11 @@ button:focus {
   text-align:left;
   font-weight:bold;
 }
+.world_pic {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .world_pic_overlay {
   position: absolute;
   top: 0;
