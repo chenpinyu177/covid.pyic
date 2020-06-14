@@ -46,7 +46,6 @@
     background: #04091e;
     position: relative;
     overflow: hidden;
-    opacity:0.5;
     width: 100%;
     min-height: 780px;
     z-index: 1;
@@ -91,6 +90,7 @@
   .banner_inner {
     position: relative;
     background: url(../img/banner/banner.jpg) no-repeat center center;
+    opacity:0.5;
     width: 100%;
     min-height: 344px;
     z-index: 1;
