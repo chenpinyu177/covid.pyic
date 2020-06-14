@@ -599,7 +599,7 @@ button:focus {
 }
 .world_pic {
   display: block;
-  width: 100%;
+  width: 50%;
 }
 .world_pic_overlay {
   position: absolute;
