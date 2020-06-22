@@ -3116,8 +3116,18 @@ h6 {
   ============================================================================================ */
   .comments-area .thumb {
     margin-right: 10px; }
-.mySlides {display: none}
-img {vertical-align: middle;}
+	
+.mySlides{
+	display: none
+	}
+.myslide .img {
+	vertical-align: middle;
+	}
+*{box-sizing: border-box}
+	.mySlides{display: none
+	}
+	.img{vertical-align: middle;
+	}
 
 /* Slideshow container */
 .myslideshow_container {
