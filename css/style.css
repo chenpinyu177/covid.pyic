@@ -424,6 +424,21 @@ button:focus {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
+.myslide_container {
+  position: relative;
+}
+
+/* Bottom right text */
+.myslide_container .text-block {
+  position: absolute;
+  bottom: 90px;
+  right: 250px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .home_banner_area {
   z-index: 1;
   min-height: 900px;
