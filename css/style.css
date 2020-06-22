@@ -452,6 +452,10 @@ button:focus {
         @media (max-width: 991px) {
           .home_banner_area .banner_inner .banner_content p {
             max-width: 460px; } }
+      .banner_inner_word{
+        padding:30px;
+        margin:10px;
+      }
 
 .blog_banner {
   min-height: 780px;
