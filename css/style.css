@@ -678,7 +678,7 @@ button:focus {
 /* Start Counter Area css
 ============================================================================================ */
 .counter_area {
-  background-image: url(../img/counter-bg.jpg);
+  background-image: url(../img/counter-bg.png);
   background-size: cover;
   z-index: 1; }
   .counter_area.overlay:after {
